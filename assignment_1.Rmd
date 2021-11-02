@@ -155,9 +155,6 @@ test_that("The output is not a ggplot object",
                                        y_label = "Sepal length")) #This should throw an error because x_lab is supposed to be a string, not a numerical value
           }
           )
-#test that there is an error with non numeric
-#test an error with non character 
-#
 ```
 
 

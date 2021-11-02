@@ -168,10 +168,4 @@ test_that("The output is not a ggplot object",
           )
 ```
 
-    ## Test passed 🥇
-
-``` r
-#test that there is an error with non numeric
-#test an error with non character 
-#
-```
+    ## Test passed 🎉
