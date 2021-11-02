@@ -168,4 +168,4 @@ test_that("The output is not a ggplot object",
           )
 ```
 
-    ## Test passed 🎉
+    ## Test passed 🥳
